@@ -1,0 +1,11 @@
+C:\Users\Cdsr99xxCG\Desktop\Cdsr99-Program\Verbos_Irregulares02\Verbos_Irregulares02\bin\Debug\Verbos_Irregulares02.exe.config
+C:\Users\Cdsr99xxCG\Desktop\Cdsr99-Program\Verbos_Irregulares02\Verbos_Irregulares02\bin\Debug\Verbos_Irregulares02.exe
+C:\Users\Cdsr99xxCG\Desktop\Cdsr99-Program\Verbos_Irregulares02\Verbos_Irregulares02\bin\Debug\Verbos_Irregulares02.pdb
+C:\Users\Cdsr99xxCG\Desktop\Cdsr99-Program\Verbos_Irregulares02\Verbos_Irregulares02\obj\Debug\Verbos_Irregulares02.csprojResolveAssemblyReference.cache
+C:\Users\Cdsr99xxCG\Desktop\Cdsr99-Program\Verbos_Irregulares02\Verbos_Irregulares02\obj\Debug\Verbos_Irregulares02.Form1.resources
+C:\Users\Cdsr99xxCG\Desktop\Cdsr99-Program\Verbos_Irregulares02\Verbos_Irregulares02\obj\Debug\Verbos_Irregulares02.Properties.Resources.resources
+C:\Users\Cdsr99xxCG\Desktop\Cdsr99-Program\Verbos_Irregulares02\Verbos_Irregulares02\obj\Debug\Verbos_Irregulares02.csproj.GenerateResource.Cache
+C:\Users\Cdsr99xxCG\Desktop\Cdsr99-Program\Verbos_Irregulares02\Verbos_Irregulares02\obj\Debug\Verbos_Irregulares02.exe
+C:\Users\Cdsr99xxCG\Desktop\Cdsr99-Program\Verbos_Irregulares02\Verbos_Irregulares02\obj\Debug\Verbos_Irregulares02.pdb
+C:\Users\Cdsr99xxCG\Desktop\Cdsr99-Program\Verbos_Irregulares02\Verbos_Irregulares02\obj\Debug\Verbos_Irregulares02.Form2.resources
+C:\Users\Cdsr99xxCG\Desktop\Cdsr99-Program\Verbos_Irregulares02\Verbos_Irregulares02\obj\Debug\Verbos_Irregulares02.Form3.resources
